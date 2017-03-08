@@ -10,6 +10,7 @@ public class test : MonoBehaviour
         Debug.Log("!23");
         Debug.Log("뻐큐머겅 두번머겅");
         Debug.Log("노답");        
+        Debug.Log("뻐큐머겅!!");
     }
 
     // Update is called once per frame
